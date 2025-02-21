@@ -48,5 +48,5 @@ Deployment (Minimal Implementation) - Saving models using joblib for potential w
 ## Future Work
 Building a webapp and deploying it.
 
-## Author : Srujana Duggineni
-## MSc Data Science, SETU
+### Author : Srujana Duggineni
+### MSc Data Science, SETU
