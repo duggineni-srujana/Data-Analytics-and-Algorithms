@@ -1,5 +1,5 @@
 # Data Analytics and Algorithms
-This repository contains my work for the Continuous Assessment (CA 1).
+This repository contains my work for the Continuous Assessment (CA-1).
 
 Implemented the below Machine Learning Algorithms using built-in datasets from sklearn and external datasets:
 
@@ -12,13 +12,16 @@ Implemented the below Machine Learning Algorithms using built-in datasets from s
 
 ## Goals
 - Analyse the theoretical foundations and work of every algorithm.
-- Implement every algorithm.
+- Implement and Modify Machine Learning Algorithms.
+- Utilize Real-world & Built-in Datasets
 - Comparison of performance with standard Scikit-Learn implementations.
 - Accuracy and efficiency of different input and computer performance with two implementations by use of the instrumentation.
 - Determine the effect of hyperparameters on, for example, learning rate, number of iterations, and feature scaling.
+- Maintain a Well-Documented Workflow.
+- Develop a Minimal Deployment for Model Use
 
 
-# Methodology
+## Methodology
 The workflow follows the CRISP-DM (Cross-Industry Standard Process for Data Mining) approach:
 
 Business Understanding - Defining the problem and expected outcomes.
@@ -29,7 +32,7 @@ Evaluation - Measuring model performance using Accuracy, Precision, Recall, RMSE
 Deployment (Minimal Implementation) - Saving models using joblib for potential web app deployment.
 
 
-# File Structure
+## File Structure
 📂 Data-Analytics-and-Algorithms/
 │── Datasets/       
 │── Logs/           
@@ -42,7 +45,8 @@ Deployment (Minimal Implementation) - Saving models using joblib for potential w
 │── .gitattributes   
 │── README.md        
 
+## Future Work
+Building a webapp and deploying it.
 
-Author
-Srujana Duggineni
-MSc Data Science, SETU
+## Author : Srujana Duggineni
+## MSc Data Science, SETU
