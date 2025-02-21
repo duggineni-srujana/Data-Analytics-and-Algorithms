@@ -6,7 +6,8 @@ Implemented the below Machine Learning Algorithms using built-in datasets from s
 - Linear Regression 
 - Naive Bayes 
 - Random Forest 
-- Decision Tree 
+- Decision Tree
+- Support Vector Machine (SVM)
 - K-Nearest Neighbors (KNN) 
 - K-Means Clustering
 
