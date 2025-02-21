@@ -4,7 +4,7 @@ This repository contains my work for the Continuous Assessment (CA-1).
 Implemented the below Machine Learning Algorithms using built-in datasets from sklearn and external datasets:
 
 - Linear Regression 
-- Naïve Bayes 
+- Naive Bayes 
 - Random Forest 
 - Decision Tree 
 - K-Nearest Neighbors (KNN) 
