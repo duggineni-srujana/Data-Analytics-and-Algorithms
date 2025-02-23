@@ -46,9 +46,9 @@ Deployment (Minimal Implementation) - Saving models using joblib for potential w
 │── .gitattributes   
 │── README.md        
 
-## Future Work
-Building a webapp and deploying it. 
-Link to my portfolio: https://srujana-duggineni.shinyapps.io/portfolio_mlalgorithms/
+ 
+## Link to my portfolio: 
+https://srujana-duggineni.shinyapps.io/portfolio_mlalgorithms/
 
 ### Author : Srujana Duggineni
 ### MSc Data Science, SETU
