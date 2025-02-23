@@ -1,4 +1,7 @@
 # Data Analytics and Algorithms
+## Link to my portfolio: 
+https://srujana-duggineni.shinyapps.io/portfolio_mlalgorithms/
+
 This repository contains my work for the Continuous Assessment (CA-1).
 
 Implemented the below Machine Learning Algorithms using built-in datasets from sklearn and external datasets:
@@ -47,8 +50,7 @@ Deployment (Minimal Implementation) - Saving models using joblib for potential w
 │── README.md        
 
  
-## Link to my portfolio: 
-https://srujana-duggineni.shinyapps.io/portfolio_mlalgorithms/
+
 
 ### Author : Srujana Duggineni
 ### MSc Data Science, SETU
