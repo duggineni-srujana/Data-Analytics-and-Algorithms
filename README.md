@@ -44,7 +44,6 @@ Deployment (Minimal Implementation) - Saving models using joblib for potential w
 │── Notebooks/     
 │── Utilities/      
 │   ├── preprocess_data.py
-│
 │── app/             
 │   ├── main.py        
 │   ├── requirements.txt 
