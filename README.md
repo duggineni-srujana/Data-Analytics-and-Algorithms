@@ -40,7 +40,8 @@ The workflow follows the CRISP-DM (Cross-Industry Standard Process for Data Mini
 ## File Structure
 📂 Data-Analytics-and-Algorithms/
 │── Datasets/       
-│── Logs/           
+│── Logs/ 
+│── Logs_Doc/
 │── Notebooks/     
 │── Utilities/      
 │   ├── preprocess_data.py
