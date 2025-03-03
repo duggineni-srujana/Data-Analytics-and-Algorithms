@@ -39,19 +39,15 @@ The workflow follows the CRISP-DM (Cross-Industry Standard Process for Data Mini
 
 ## File Structure
 📂 Data-Analytics-and-Algorithms/
-│── Datasets/       
-│── Logs/ 
-│── Logs_Doc/
-│── Notebooks/     
-│── Utilities/      
-│   ├── preprocess_data.py
-│── app/             
-│   ├── main.py        
-│   ├── requirements.txt 
-│── .gitattributes
-│── Portfolio
-│── README.md        
-
+│── Datasets/            
+│── Logs/                
+│── Logs_Doc/             
+│── Notebooks/            
+│── Utilities/           
+│── app/                  
+│── .gitattributes        
+│── Portfolio             
+│── README.md             
  
 
 
