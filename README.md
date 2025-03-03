@@ -29,12 +29,12 @@ Implemented the below Machine Learning Algorithms using built-in datasets from s
 ## Methodology
 The workflow follows the CRISP-DM (Cross-Industry Standard Process for Data Mining) approach:
 
-Business Understanding - Defining the problem and expected outcomes.
-Data Understanding - Exploring and visualising datasets.
-Data Preparation - Cleaning, transforming, and feature engineering.
-Modelling - Implementing and tuning different algorithms.
-Evaluation - Measuring model performance using Accuracy, Precision, Recall, RMSE, etc.
-Deployment (Minimal Implementation) - Saving models using joblib for potential web app deployment.
+- Business Understanding - Defining the problem and expected outcomes.
+- Data Understanding - Exploring and visualising datasets.
+- Data Preparation - Cleaning, transforming, and feature engineering.
+- Modelling - Implementing and tuning different algorithms.
+- Evaluation - Measuring model performance using Accuracy, Precision, Recall, RMSE, etc.
+- Deployment (Minimal Implementation) - Saving models using joblib for potential web app deployment.
 
 
 ## File Structure
