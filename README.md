@@ -15,6 +15,11 @@ Implemented the below Machine Learning Algorithms using built-in datasets from s
 - Support Vector Machine (SVM)
 - K-Nearest Neighbors (KNN) 
 - K-Means Clustering
+- Logistic Regression
+- Convolutional Neural Network (CNN)
+- Recurrent Neural Network (RNN)
+- Long Short-Term Memory (LSTM)
+- Transformers
 
 ## Goals
 - Analyse the theoretical foundations and work of every algorithm.
