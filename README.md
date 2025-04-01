@@ -1,7 +1,8 @@
 # Data Analytics and Algorithms
 ## Link to my portfolio: 
 https://srujana-duggineni.shinyapps.io/portfolio_mlalgorithms/
-
+## Link to the web app I created for a model for predicting California Housing Prices:
+https://california-house-prediction-a2g2.onrender.com/
 
 This repository contains my work for the Continuous Assessment (CA-1).
 
